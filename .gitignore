@@ -1,0 +1,4 @@
+task.md
+email_venv/
+__pycache__/
+**.log
